@@ -6,6 +6,12 @@ This project is a practical demonstration of building a **robust, automated, and
 
 ---
 
+### **Data Source**
+The raw YouTube trending data and category reference files used in this project are sourced from the following Kaggle dataset:
+* **Trending YouTube Video Statistics:** [https://www.kaggle.com/datasets/datasnaek/youtube-new] 
+  
+---
+
 ## Project Flow 🗺️
 
 It wasn't just about building a pipeline; it was about:
@@ -21,7 +27,7 @@ It wasn't just about building a pipeline; it was about:
 
 This diagram illustrates the comprehensive data flow and the AWS services leveraged throughout the project:
 
-!-[Data Architecture Diagram](my_architecture_diagram.jpeg)
+![Data Architecture Diagram](screenshots/my_architecture_diagram.jpeg)
 
 **Key Layers & Services:**
 
@@ -147,8 +153,6 @@ The culmination of the entire pipeline! Amazon QuickSight was connected directly
 
 _Key insights brought to life through the QuickSight Dashboard:_
 ![QuickSight Dashboard Overview](screenshots/19_quicksight_dashboard_main.png)
-![QuickSight Dashboard - Detail 1](screenshots/20_quicksight_dashboard_detail_1.png)
-![QuickSight Dashboard - Detail 2](screenshots/21_quicksight_dashboard_detail_2.png)
 
 ---
 
