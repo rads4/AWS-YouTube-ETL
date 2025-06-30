@@ -1,4 +1,4 @@
-# ☁️ End-to-End YouTube Data Analytics Pipeline on AWS 🚀
+# ☁️ YouTube Data Analytics Pipeline on AWS 🚀
 
 ## Project Overview ✨
 
