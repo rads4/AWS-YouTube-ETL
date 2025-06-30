@@ -147,8 +147,6 @@ The culmination of the entire pipeline! Amazon QuickSight was connected directly
 
 _Key insights brought to life through the QuickSight Dashboard:_
 ![QuickSight Dashboard Overview](screenshots/19_quicksight_dashboard_main.png)
-![QuickSight Dashboard - Detail 1](screenshots/20_quicksight_dashboard_detail_1.png)
-![QuickSight Dashboard - Detail 2](screenshots/21_quicksight_dashboard_detail_2.png)
 
 ---
 
