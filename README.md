@@ -164,5 +164,3 @@ The Python code for the AWS Lambda function, along with its dependencies, can be
 - `src/requirements.txt`: Lists all necessary Python library dependencies.
 
 ---
-
-**This project truly reflects my passion for building robust data solutions, my commitment to problem-solving, and my dedication to continuous learning in the exciting field of data engineering. I'm excited about what's next!**
