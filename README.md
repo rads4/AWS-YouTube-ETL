@@ -27,7 +27,7 @@ It wasn't just about building a pipeline; it was about:
 
 This diagram illustrates the comprehensive data flow and the AWS services leveraged throughout the project:
 
-![Data Architecture Diagram](my_architecture_diagram.jpeg)
+![Data Architecture Diagram](Architecture.png)
 
 **Key Layers & Services:**
 
