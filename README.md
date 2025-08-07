@@ -89,6 +89,9 @@ To optimize querying and storage, the raw JSON reference data was converted to P
 1.  **Glue Crawler for Raw JSON:** An AWS Glue Crawler scanned the raw JSON data, inferring its schema and cataloging it in `db_youtube_raw`.
 2.  **Lambda ETL:** An AWS Lambda function (`project-de-yt-lambda-json-parquet`) was developed using `awswrangler`. This function is triggered by S3 events, reads the raw JSON, normalizes its `items` array, and writes the output as Parquet files to `project-de-yt-cleansed-data/youtube/cleaned_reference_data/`.
 
+_Lambda function for ETL:_
+![Lambda Function](screenshots/lambda_function.png) 
+
 _Glue Crawler output for the raw JSON data (table in Glue Data Catalog):_
 ![Glue Crawler JSON Output](screenshots/04_glue_crawler_json_output.png)
 
